@@ -1,5 +1,5 @@
 <?php
 //add be steve
-// new
+// new test
 phpinfo();
 ?>
